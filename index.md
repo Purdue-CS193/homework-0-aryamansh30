@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Aryaman Sharma's First CS193 Homework
 
-#Bulleted List
-##What I love about CS193
+# Bulleted List
+## What I love about CS193
 
 
 - The TA's in the class. They are really helpful and amazing at teaching
